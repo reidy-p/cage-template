@@ -1,5 +1,5 @@
 [cage]
-handler = "index.handler"
+handler = "file-system.handler"
 
 # Sample input that can be used in the Cage playground
 [cage.playground]
