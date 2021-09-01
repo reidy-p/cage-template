@@ -1,8 +1,8 @@
-exports.handler = {
+exports.handler = () => {
 
-    evervault
+    console.log(evervault);
 
     return {
         done: true
-    }
+    };
 };
