@@ -1,4 +1,4 @@
-/*global evervault*/
+// valide a phone number using an external library
 
 const { phone: validatePhone } = require('phone');
 

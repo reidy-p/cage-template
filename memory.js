@@ -1,3 +1,5 @@
+// Try to exceed the memory limits of the cage
+
 const storage = [];
 const twoMegabytes = 1024 * 1024 * 2;
 while (true) {
