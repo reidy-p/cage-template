@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/evervault/template-verify-phone-cage#readme",
   "dependencies": {
+    "glob": "^7.1.7",
     "phone": "^3.1.4"
   }
 }
